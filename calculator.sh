@@ -19,3 +19,4 @@ elif [ $n -eq 4 ]
 then
 echo `expr $a / $b`
 fi
+#my calculator
